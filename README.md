@@ -1,2 +1,2 @@
 # multiplefileuploader
-multiple file uploader using javascript
+multiple file uploader using React.js
